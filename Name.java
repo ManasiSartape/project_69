@@ -1,5 +1,3 @@
-class Name{
-public static void main(string args[]{
-System.out.print("My name is: Riya");
-}
-}
+https://github.com/ManasiSartape/project_69.git
+
+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
